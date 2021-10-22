@@ -2,3 +2,4 @@
 
 - useSelector()
 - useDispatch()
+_ Bách đã chỉnh sửa ok 
